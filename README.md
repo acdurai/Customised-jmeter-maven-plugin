@@ -1,7 +1,7 @@
 ## Customised-jmeter-maven-plugin
 
 
-This is an customized jmeter maven plugin and it's details
+This is an customized jmeter maven plugin and it's details.
 
 
 ## Advantages of customized jmeter maven plugin
